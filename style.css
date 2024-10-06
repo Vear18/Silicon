@@ -1013,7 +1013,7 @@ ol,ul {
       }
   
       .newsletter-content img {
-        width: 40px; /* Adjust based on your icon size */
+        width: 40px; 
         height: auto;
       }
   
@@ -1060,11 +1060,11 @@ ol,ul {
       text-align: center;
       padding: 20px 0;
       font-size: 14px;
-      color: #8b8f99; /* Light gray text color */
-      background-color: #f5f7fd; /* Background matching your site */
+      color: #8b8f99; 
+      background-color: #f5f7fd; 
     }
     
     .footer a {
-      color: #8b8f99; /* Same light gray color */
+      color: #8b8f99; 
       text-decoration: none;
     }
