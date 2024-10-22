@@ -741,7 +741,7 @@ ol,ul {
       align-items: flex-start;
     }
 
-    /* Left Section */
+    
     .left-section {
       font-size: 28px;
       font-weight: bold;
@@ -856,12 +856,12 @@ ol,ul {
 
 
 
-     /* Gap Section */
+     
      .gap-section {
       height: 100px;
     }
 
-    /* Container for FAQ section */
+    
     .faq-container {
       display: grid;
       grid-template-columns: 1fr 2fr;
@@ -872,7 +872,7 @@ ol,ul {
       padding: 40px 20px;
     }
 
-    /* Left Section */
+    
     .left-section {
       font-size: 28px;
       font-weight: bold;
@@ -933,7 +933,7 @@ ol,ul {
     }
     
 
-    /* FAQ Section */
+    
     .faq-section {
       display: flex;
       flex-direction: column;
@@ -985,7 +985,6 @@ ol,ul {
 
 
 
-       /* General styles */
        body {
         font-family: Arial, sans-serif;
         background-color: #f5f7fd;
@@ -993,7 +992,7 @@ ol,ul {
         margin: 0;
       }
   
-      /* Newsletter Section Styles */
+     
       .newsletter-section {
         display: flex;
         justify-content: space-between;
@@ -1055,7 +1054,7 @@ ol,ul {
 
 
 
-      /* Footer Watermark Style */
+      
     .footer {
       text-align: center;
       padding: 20px 0;
