@@ -548,7 +548,7 @@ ol,ul {
 
 .image-page4-2 {
   width: 100%;
-  background-color: #ffffff;
+  background-color: #ffffff00;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -558,7 +558,7 @@ ol,ul {
 }
 
 .text-block {
-  background-color: #ffffff;
+  background-color: #ffffff00;
   padding: 20px;
   border-radius: 8px;
   color: rgb(0, 0, 0);
@@ -607,7 +607,7 @@ ol,ul {
   flex-direction: column;
   gap: 10px;
   padding: 60px;
-  background-color: #ffffff;
+  background-color: #ffffff00;
   border-radius: 8px;
   color: rgb(0, 0, 0);
 }
